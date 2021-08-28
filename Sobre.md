@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @SheyEvo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-SheyEvo/SheyEvo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Olá, sou Shey
+- 👀 Me interesso por tudo.
+- 🌱 Estou sempre estudando varias coisas.
+- 📫 Como me encontrar: [Tuítes do Shey 🐤](https://twitter.com/SheyEvo) | [Ciber café ☕](https://discord.gg/zvbNDuZ6xj)
