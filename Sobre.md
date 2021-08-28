@@ -1,0 +1,4 @@
+- 👋 Olá, sou Shey
+- 👀 Me interesso por tudo.
+- 🌱 Estou sempre estudando varias coisas.
+- 📫 Como me encontrar: [Tuítes do Shey 🐤](https://twitter.com/SheyEvo)  |  [Ciber café ☕](https://discord.gg/zvbNDuZ6xj)
